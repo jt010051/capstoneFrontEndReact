@@ -1,0 +1,128 @@
+/* .container {
+  max-width: 1100px;
+  max-height: 368px;
+
+  padding-right: 15px;
+  padding-left: 15px;
+
+  box-sizing: border-box;
+}
+
+.navbar.bg-dark a {
+  color: rgb(230, 221, 221);
+
+}
+
+.navbar.bg-dark {
+  background-color: #343a40 !important;
+}
+
+
+h1 {
+  color: rgb(97, 96, 96);
+}
+
+h5 {
+  color: rgb(97, 96, 96);
+}
+
+.dropdown-menu {
+  min-width: 1rem;
+}
+
+.navbar-brand {
+  margin-left: 16px;
+
+}
+
+.navbar-nav.mr-auto {
+  width: 350px;
+  margin-right: 400px;
+}
+
+.collapse.navbar-collapse {
+  width: 900px;
+  padding: 0px;
+}
+
+#navbarSupportContent {
+
+  width: 900px;
+}
+
+.pagination {
+  width: 1070px;
+  height: 30px;
+  justify-content: flex-end;
+
+}
+
+.pagination a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid #2b2eff;
+  color: #2b2eff;
+  cursor: pointer;
+
+
+}
+
+.pagination a:hover {
+  color: white;
+  background-color: #2b2eff;
+}
+
+.paginationDisabled a {
+  padding: 0.1875rem 0.625rem;
+  color: #cacaca;
+
+  display: inline-block;
+  margin-right: 0.0625rem;
+  border-radius: 0;
+}
+
+.paginationActive a {
+  display: inline-block;
+  padding: 0.1875rem 0.625rem;
+  margin-right: 0.0625rem;
+  border-radius: 0;
+}
+
+.next a {
+
+  padding: 0.1875rem 0.625rem;
+
+  cursor: default;
+  display: inline-block;
+  margin-right: 0.0625rem;
+  border-radius: 0;
+}
+
+.previous a {
+
+  padding: 0.1875rem 0.625rem;
+
+  cursor: default;
+  display: inline-block;
+  margin-right: 0.0625rem;
+  border-radius: 0;
+
+}
+
+.page a {
+  padding: 0.1875rem 0.625rem;
+  display: inline-block;
+  margin-right: 0.0625rem;
+  border-radius: 0;
+
+}
+
+.table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+} */
